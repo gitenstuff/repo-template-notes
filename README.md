@@ -1,7 +1,3 @@
----
-### tag: Article
----
-
 # git clone \<github template repo\>
 Demonstrates new repo from template repo that has two branches. 
 
